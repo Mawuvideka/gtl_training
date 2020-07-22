@@ -1,0 +1,12 @@
+body{
+     /*how to set the backgrund color*/
+    /*background-color: #ffff00;*/ 
+    background-image: url(./pics/Critical-Writing-Skills-resized-600.jpg);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+     color: red;
+    
+}
